@@ -1,0 +1,4 @@
+# ninja log v5
+0	4023	1688362204107333548	/home/zrm/code_multimodel/Deformable-DETR-main/models/ops/build/temp.linux-x86_64-cpython-39/home/zrm/code_multimodel/Deformable-DETR-main/models/ops/src/cpu/ms_deform_attn_cpu.o	ce68de2c70307ae4
+0	14173	1688362214251260169	/home/zrm/code_multimodel/Deformable-DETR-main/models/ops/build/temp.linux-x86_64-cpython-39/home/zrm/code_multimodel/Deformable-DETR-main/models/ops/src/cuda/ms_deform_attn_cuda.o	8890b25be6380ab5
+0	17172	1688362217255238574	/home/zrm/code_multimodel/Deformable-DETR-main/models/ops/build/temp.linux-x86_64-cpython-39/home/zrm/code_multimodel/Deformable-DETR-main/models/ops/src/vision.o	be0e7db87e7bad55
